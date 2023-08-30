@@ -4,7 +4,7 @@ public:
         
         int n= nums.size();
         long long int ans=0, tmp=nums[n-1];
-        for(int i=n-2; i>0; i--)
+        for(int i=n-2; i>=0; i--)
         {
             if(nums[i]>tmp)
             {
@@ -27,11 +27,7 @@ public:
             }
         }
 
-        if(nums[0]>tmp)
-        {
-            ans+=(nums[0]/tmp);
-            if(nums[0]%tmp==0) ans--;
-        }
+        
 
         return ans;
     }
