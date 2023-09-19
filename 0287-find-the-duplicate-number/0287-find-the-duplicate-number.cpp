@@ -3,13 +3,20 @@ public:
     int findDuplicate(vector<int>& nums) {
           int n = nums.size();
 
-        int arr[n+1], ans;
-        for(int i=1; i<=n; i++) arr[i]=0;
-            for(auto x: nums)
+        int right= n-1, left=0, mid;
+        while(left <= right)
+        {
+            mid = left + (right - left)/2;
+           int cnt = 0;
+
+            for(int x: nums)
             {
-                if(arr[x]!=0) ans = x;
-                arr[x]++;
+                if(x <= mid) cnt++;
             }
-            return ans;
+        //cout<<right<<" "<<left<<" "<<mid<<" "<<cnt<<endl;
+            if(cnt <= mid) left = mid+1;
+            else right = mid -1;
+        }
+        return left;
     }
 };
