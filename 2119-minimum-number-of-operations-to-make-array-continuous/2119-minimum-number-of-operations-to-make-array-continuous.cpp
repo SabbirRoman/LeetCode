@@ -1,24 +1,24 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        int len = nums.size();
-        sort(nums.begin(), nums.end());
-        int start =0, ans=len;
-        set<int>set1;
-        for(int end =0; end < len; end++)
-        {
-            set1.insert(nums[end]);
-            while(nums[end]-nums[start] >= len) {
-               if(set1.size() > 0) set1.erase(nums[start]);
-                start++;
-            }
-            int tmp = set1.size();
-            ans = min(ans, len - tmp);
-            //cout<<ans<<endl;
+        int n = nums.size();
+        int ans = n;
+        
+        // std::set automatically sorts
+        set<int> unique(nums.begin(), nums.end());
+        vector<int> newNums;
+        for (int num : unique) {
+            newNums.push_back(num);
         }
-     
-      
-
+        
+        for (int i = 0; i < newNums.size(); i++) {
+            int left = newNums[i];
+            int right = left + n - 1;
+            int j = upper_bound(newNums.begin(), newNums.end(), right) - newNums.begin();
+            int count = j - i;
+            ans = min(ans, n - count);
+        }
+        
         return ans;
     }
 };
