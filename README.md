@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/SabbirRoman/LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/SabbirRoman/LeetCode/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/SabbirRoman/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3019-furthest-point-from-origin](https://github.com/SabbirRoman/LeetCode/tree/master/3019-furthest-point-from-origin) |
 # Greedy
 |  |
 | ------- |
@@ -28,3 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/SabbirRoman/LeetCode/tree/master/1044-find-common-characters) |
+# Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/SabbirRoman/LeetCode/tree/master/3019-furthest-point-from-origin) |
