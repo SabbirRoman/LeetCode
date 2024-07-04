@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/SabbirRoman/LeetCode/tree/master/0835-linked-list-components) |
 | [1293-three-consecutive-odds](https://github.com/SabbirRoman/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SabbirRoman/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3373-maximum-prime-difference](https://github.com/SabbirRoman/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,4 +193,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SabbirRoman/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/SabbirRoman/LeetCode/tree/master/3373-maximum-prime-difference) |
+## Number Theory
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/SabbirRoman/LeetCode/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->
