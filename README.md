@@ -196,9 +196,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SabbirRoman/LeetCode/tree/master/0292-nim-game) |
 | [3373-maximum-prime-difference](https://github.com/SabbirRoman/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Number Theory
 |  |
 | ------- |
 | [3373-maximum-prime-difference](https://github.com/SabbirRoman/LeetCode/tree/master/3373-maximum-prime-difference) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SabbirRoman/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SabbirRoman/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
