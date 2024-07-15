@@ -174,12 +174,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/SabbirRoman/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/SabbirRoman/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SabbirRoman/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/SabbirRoman/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3373-maximum-prime-difference](https://github.com/SabbirRoman/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SabbirRoman/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0835-linked-list-components](https://github.com/SabbirRoman/LeetCode/tree/master/0835-linked-list-components) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/SabbirRoman/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,4 +245,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SabbirRoman/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SabbirRoman/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SabbirRoman/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/SabbirRoman/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/SabbirRoman/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
