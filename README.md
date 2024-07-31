@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SabbirRoman/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SabbirRoman/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SabbirRoman/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/SabbirRoman/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SabbirRoman/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SabbirRoman/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/SabbirRoman/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Topological Sort
 |  |
 | ------- |
@@ -302,4 +304,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SabbirRoman/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/SabbirRoman/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
